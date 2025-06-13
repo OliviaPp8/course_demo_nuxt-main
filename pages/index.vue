@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <header class="hero">
-      <h1>Web3 & AI Industry Professional</h1>
+      <h1>Olivia: Web3 & AI Industry Professional</h1>
       <p class="subtitle">Connecting Technology with Business Growth</p>
     </header>
 
